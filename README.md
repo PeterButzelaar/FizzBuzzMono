@@ -1,4 +1,4 @@
-# FizzBuzz requirements (.md = mark down)
+# FizzBuzz requirements (.md = mark down).
 
 * Print the numbers from 1 to 100
 * If a number is divisible by 3 print "Fizz" instead
